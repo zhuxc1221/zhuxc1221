@@ -1,15 +1,35 @@
-# Xing.Zhu
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="1080" alt="Xing.Zhu — Small tools for macOS. Hey, who is JSON?">
+</picture>
 
-我做一些自己每天会用到的 macOS 小工具。  
-I build small macOS tools for everyday use.
+<p align="center">
+  <a href="https://github.com/zhuxc1221/DuoStatus/releases/latest"><strong>下载 DuoStatus</strong></a> ·
+  <a href="https://github.com/zhuxc1221/DuoStatus">源码</a> ·
+  <a href="https://github.com/zhuxc1221#js-contribution-activity">GitHub 活动</a>
+</p>
 
-## DuoStatus
+我用 Swift 写日常用得上的 macOS 工具。
 
-<a href="https://github.com/zhuxc1221/DuoStatus"><img src="assets/duostatus.svg" width="1120" alt="DuoStatus turns separate input, Wi-Fi and battery indicators into one menu bar item."></a>
+### 近期更新 · Updates
 
-把电量、Wi-Fi 和输入法合到一个菜单栏图标里，仍可点开 macOS 原生 Wi-Fi 面板。  
-Battery, Wi-Fi, and input source in one menu bar item, with the native Wi-Fi panel one click away.
+- **11 月 6 日** · [DuoStatus v0.8.0](https://github.com/zhuxc1221/DuoStatus/releases/tag/v0.8.0) 加入登录时启动、系统权限提示和拖放安装 DMG。
+- **11 月 5 日** · [DuoStatus v0.7.0](https://github.com/zhuxc1221/DuoStatus/releases/tag/v0.7.0) 重做原生窗口与 App 图标，优化菜单栏布局。
 
-**[下载 Download](https://github.com/zhuxc1221/DuoStatus/releases/latest)** · [源码 Code](https://github.com/zhuxc1221/DuoStatus) · [反馈 Issues](https://github.com/zhuxc1221/DuoStatus/issues)
+### 开源工具 · Tools
 
-*Hey, who is JSON?*
+<p>
+  <a href="https://github.com/zhuxc1221/DuoStatus"><img src="assets/duostatus-icon.png" align="left" width="54" height="54" alt=""></a>
+  <strong><a href="https://github.com/zhuxc1221/DuoStatus">DuoStatus</a></strong><br>
+  一个图标看电量、Wi-Fi 和输入法，点击打开原生 Wi-Fi 面板。
+</p>
+
+<p>
+  <a href="https://github.com/zhuxc1221/DuoStatus/releases/latest"><strong>下载 DMG</strong></a> ·
+  <a href="https://github.com/zhuxc1221/DuoStatus/blob/main/README-zh.md">使用说明</a> ·
+  <a href="https://github.com/zhuxc1221/DuoStatus/issues">反馈问题</a>
+</p>
+
+### 技术栈 · Stack
+
+Swift · AppKit · CoreWLAN · IOKit

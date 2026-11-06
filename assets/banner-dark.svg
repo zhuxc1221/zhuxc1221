@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="302" viewBox="0 0 1080 302" role="img" aria-labelledby="title desc">
+  <title id="title">Xing.Zhu</title>
+  <desc id="desc">Small tools for macOS. A JSON snippet introduces the profile and DuoStatus.</desc>
+  <defs><clipPath id="frame"><rect width="1080" height="302" rx="20"/></clipPath></defs>
+  <g clip-path="url(#frame)">
+    <path fill="#151d2a" d="M0 0h1080v302H0z"/>
+    <path fill="#23324c" d="M607 0h473v302H607z"/>
+  </g>
+  <text x="62" y="154" fill="#f5f7fb" font-family="Georgia, Times New Roman, serif" font-size="104" letter-spacing="-5">Xing.Zhu</text>
+  <text x="68" y="215" fill="#bac9dc" font-family="Arial, Helvetica, sans-serif" font-size="36">Small tools for macOS.</text>
+  <g font-family="Menlo, Consolas, monospace" font-size="28" fill="#e8effb">
+    <text x="652" y="95" fill="#b0cdff">{</text>
+    <text x="680" y="137"><tspan fill="#b0cdff">"hey"</tspan>: "who is JSON?",</text>
+    <text x="680" y="177"><tspan fill="#b0cdff">"project"</tspan>: "DuoStatus"</text>
+    <text x="652" y="219" fill="#b0cdff">}</text>
+  </g>
+</svg>
