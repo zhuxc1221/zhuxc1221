@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="1080" alt="Xing.Zhu — Small tools for macOS. Hey, who is JSON?">
+  <img src="assets/banner-light.svg" width="1080" alt="Xing.Zhu — IT operations and automation. Hey, who is JSON?">
 </picture>
 
 <p align="center">
@@ -9,7 +9,11 @@
   <a href="https://github.com/zhuxc1221#js-contribution-activity">Activity</a>
 </p>
 
-I write macOS utilities in Swift. I built DuoStatus to free up space in my menu bar.
+I'm an IT operations engineer with **seven years of experience** supporting infrastructure and troubleshooting systems.
+
+### Operations & automation
+
+I build automation plugins and AI agents for routine system checks, incident triage, and recurring maintenance. I also write native macOS utilities in Swift, including DuoStatus.
 
 ### Recent updates
 
