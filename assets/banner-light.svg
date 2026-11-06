@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="302" viewBox="0 0 1080 302" role="img" aria-labelledby="title desc">
   <title id="title">Xing.Zhu</title>
-  <desc id="desc">IT operations &amp; automation. A JSON snippet introduces the profile and DuoStatus.</desc>
+  <desc id="desc">IT operations &amp; automation. An AI prompt reads: Hey, who is JSON?</desc>
   <defs><clipPath id="frame"><rect width="1080" height="302" rx="20"/></clipPath></defs>
   <g clip-path="url(#frame)">
     <path fill="#edf2f8" d="M0 0h1080v302H0z"/>
@@ -8,10 +8,7 @@
   </g>
   <text x="62" y="154" fill="#162642" font-family="Georgia, Times New Roman, serif" font-size="104" letter-spacing="-5">Xing.Zhu</text>
   <text x="68" y="215" fill="#415672" font-family="Arial, Helvetica, sans-serif" font-size="36">IT operations &amp; automation.</text>
-  <g font-family="Menlo, Consolas, monospace" font-size="28" fill="#243a5d">
-    <text x="652" y="95" fill="#28518b">{</text>
-    <text x="680" y="137"><tspan fill="#28518b">"hey"</tspan>: "who is JSON?",</text>
-    <text x="680" y="177"><tspan fill="#28518b">"project"</tspan>: "DuoStatus"</text>
-    <text x="652" y="219" fill="#28518b">}</text>
-  </g>
+  <rect x="638" y="86" width="411" height="130" rx="16" fill="#eef4fc"/>
+  <text x="662" y="132" fill="#415e86" font-family="Arial, Helvetica, sans-serif" font-size="25">Ask AI</text>
+  <text x="662" y="181" fill="#162642" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="600">Hey, who is JSON?</text>
 </svg>
