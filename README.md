@@ -17,6 +17,7 @@ I build automation plugins and AI agents for routine system checks, incident tri
 
 ### Recent updates
 
+- **Nov 6, 2026** · [Network Ops](https://github.com/zhuxc1221/network-ops) went open source under MIT.
 - **Nov 6, 2026** · [DuoStatus v0.8.0](https://github.com/zhuxc1221/DuoStatus/releases/tag/v0.8.0) added launch at login, a native permission prompt, and a drag-to-install DMG.
 - **Nov 5, 2026** · [DuoStatus v0.7.0](https://github.com/zhuxc1221/DuoStatus/releases/tag/v0.7.0) redesigned the app window and icon, and refined the menu bar layout.
 
@@ -32,6 +33,16 @@ I build automation plugins and AI agents for routine system checks, incident tri
   <a href="https://github.com/zhuxc1221/DuoStatus/releases/latest"><strong>Download DMG</strong></a> ·
   <a href="https://github.com/zhuxc1221/DuoStatus/blob/main/README.md">Setup guide</a> ·
   <a href="https://github.com/zhuxc1221/DuoStatus/issues">Issues</a>
+</p>
+
+<p>
+  <strong><a href="https://github.com/zhuxc1221/network-ops">Network Ops</a></strong><br>
+  A Codex skill for network troubleshooting, recoverable changes, and local operations records.
+</p>
+
+<p>
+  <a href="https://github.com/zhuxc1221/network-ops#set-up">Setup guide</a> ·
+  <a href="https://github.com/zhuxc1221/network-ops#privacy">Privacy</a>
 </p>
 
 ### Tech stack
