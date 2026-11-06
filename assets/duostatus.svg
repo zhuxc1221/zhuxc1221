@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="348" viewBox="0 0 1120 348" role="img" aria-labelledby="title desc">
+  <title id="title">DuoStatus</title>
+  <desc id="desc">The input source, Wi-Fi, and battery indicators on the left appear as one enlarged DuoStatus icon on the right.</desc>
+
+  <defs>
+    <path id="pinyin" d="M2 9h12m-5-7v27q0 3-6 2M2 21l12-5M19 3l4 6M32 3l-4 6M17 11h18M17 19h19M22 11v9q0 8-6 12m14-21v21"/>
+  </defs>
+
+  <path fill="#111111" d="M0 0h1120v348H0z"/>
+  <path fill="#1c1c1c" d="M0 0h480v348H0z"/>
+
+  <g fill="#c5c0b9" stroke="#c5c0b9" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="109" y="149" width="55" height="46" rx="9" fill="none" stroke-width="3"/>
+    <use href="#pinyin" transform="translate(122 159) scale(.78)" fill="none" stroke-width="3"/>
+    <path d="M207 165c13-13 33-13 46 0m-38 8c8-8 22-8 30 0m-23 8c5-5 11-5 16 0" fill="none" stroke-width="4"/>
+    <circle cx="230" cy="188" r="2.6" stroke="none"/>
+    <rect x="297" y="157" width="65" height="31" rx="7" fill="none" stroke-width="3"/>
+    <rect x="303" y="163" width="41" height="19" rx="3" stroke="none"/>
+    <path d="M368 167v11" fill="none" stroke-width="3"/>
+  </g>
+
+  <path fill="none" stroke="#a08672" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M459 174h42m-11-11 11 11-11 11"/>
+
+  <g transform="translate(799 174)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-57 83A101 101 0 0 1-62-80M62-80A101 101 0 0 1 57 83" fill="none" stroke="#45413d" stroke-width="9"/>
+    <path d="M-57 83A101 101 0 0 1-62-80M62-80A101 101 0 0 1 99 20" fill="none" stroke="#f2f2f2" stroke-width="9"/>
+    <path d="M-46-7c25-25 67-25 92 0M-31 9c17-17 45-17 62 0M-15 24c8-8 22-8 30 0" fill="none" stroke="#f2f2f2" stroke-width="8"/>
+    <circle cy="40" r="5" fill="#f2f2f2"/>
+    <text x="-8" y="-65" text-anchor="middle" fill="#f2f2f2" font-family="Arial, sans-serif" font-size="47" font-weight="700" letter-spacing="-1.5">80</text>
+    <path fill="#a08672" d="M37-101 21-79h10l-3 14 18-23H35z"/>
+    <!-- The input source is drawn as a path so GitHub's image renderer needs no CJK font. -->
+    <use href="#pinyin" transform="translate(-18 61)" fill="none" stroke="#f2f2f2" stroke-width="2.7"/>
+  </g>
+</svg>
